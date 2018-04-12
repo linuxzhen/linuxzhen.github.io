@@ -1,0 +1,6 @@
+site_name: My Docs
+pages:
+    - Home: index.md
+    - About: 课程介绍.md
+    - About: 课程介绍2.md
+theme: readthedocs
