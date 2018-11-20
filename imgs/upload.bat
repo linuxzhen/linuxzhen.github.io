@@ -1,3 +1,3 @@
-git add .*
-git commit -m 'upload imgs'
+git add .
+git commit -m 'xxx'
 git push
