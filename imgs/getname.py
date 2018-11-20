@@ -7,4 +7,4 @@ import os
 gitimg_url = "https://linuxzhen.github.io/imgs/"
 with open("img_list.txt", "w+", encoding='utf-8') as fp:
     for file in os.listdir():
-        fp.write(gitimg_url+file+"\n")
+        fp.write(f"![{file}]({gitimg_url}{file})\n")
