@@ -1,4 +1,0 @@
-![getname.py](https://linuxzhen.github.io/imgs/getname.py)
-![img_list.txt](https://linuxzhen.github.io/imgs/img_list.txt)
-![upload.bat](https://linuxzhen.github.io/imgs/upload.bat)
-![七牛.png](https://linuxzhen.github.io/imgs/七牛.png)
