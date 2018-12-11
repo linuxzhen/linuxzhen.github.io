@@ -173,6 +173,7 @@
 ![bbs_sanle/Images/digui_jiecheng.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/digui_jiecheng.png)
 ![bbs_sanle/Images/id_ref.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/id_ref.png)
 ![bbs_sanle/Images/language_index.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/language_index.png)
+![bbs_sanle/Images/QQ截图20181211114251.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/QQ截图20181211114251.png)
 ![bbs_sanle/Images/README-10.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/README-10.png)
 ![bbs_sanle/Images/README-3.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/README-3.png)
 ![bbs_sanle/Images/README-4.png](https://linuxzhen.github.io/imgs/bbs_sanle/Images/README-4.png)
